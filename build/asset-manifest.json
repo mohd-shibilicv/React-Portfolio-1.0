@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.ab2dcbfb.css",
+    "main.js": "/react-portfolio/static/js/main.3f153e8a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/b4.png": "/react-portfolio/static/media/b4.9b034a2955405b78dbf1.png",
+    "static/media/signup.jpg": "/react-portfolio/static/media/signup.ce7e7b8b158bf9988afa.jpg",
+    "static/media/c1.jpg": "/react-portfolio/static/media/c1.032bde853b88d89c292d.jpg",
+    "static/media/Document1.pdf": "/react-portfolio/static/media/Document1.2535c41db1d57e7671df.pdf",
+    "static/media/bcomfinance.jpg": "/react-portfolio/static/media/bcomfinance.7d4cfa28b1f7d8317c13.jpg",
+    "static/media/alt2.jpeg": "/react-portfolio/static/media/alt2.6bcbfbc642e2e8f68468.jpeg",
+    "static/media/bca.png": "/react-portfolio/static/media/bca.e2a774c1816096e7e88c.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.ab2dcbfb.css.map": "/react-portfolio/static/css/main.ab2dcbfb.css.map",
+    "main.3f153e8a.js.map": "/react-portfolio/static/js/main.3f153e8a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab2dcbfb.css",
+    "static/js/main.3f153e8a.js"
+  ]
+}
